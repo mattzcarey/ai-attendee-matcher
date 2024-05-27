@@ -2,6 +2,12 @@
 
 > Match attendees by industry and a bunch of other random heuristics
 
+## Usage
+
+- Install stuff below and setup the project.
+- Download the guest list from your ticketing software (this project used lu.ma and milage with other formats will vary) 
+- Copy your csv file to data folder. Update the name of the file in src/constants.py
+
 ## Project requirements
 
 ### Pyenv and `Python 3.11.6`

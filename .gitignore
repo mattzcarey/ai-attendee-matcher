@@ -17,3 +17,7 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# data
+data/*
+!data/.gitkeep
